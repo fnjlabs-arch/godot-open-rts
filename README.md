@@ -1,6 +1,6 @@
-# Open RTS
+# SadSha RTS
 
-![Open RTS](./media/screenshots/screenshot_1400x650.png "Open RTS")
+![SadSha RTS](./media/screenshots/screenshot_1400x650.png "SadSha RTS")
 
 Open Source real-time strategy game made with Godot 4.
 
@@ -56,7 +56,7 @@ Everyone is free to fix bugs or perform refactoring just by opening PR. As for f
  
 ### Contributors
 
-See [contributors](https://github.com/lampe-games/godot-open-rts/graphs/contributors) page.
+See [contributors](https://github.com/fnjlabs-arch/godot-sadsha-rts/graphs/contributors) page.
 
 ### Assets
  - 3D Space Kit by [Kenney](https://www.kenney.nl/assets/space-kit)

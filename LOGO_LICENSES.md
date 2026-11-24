@@ -6,8 +6,6 @@ This logo is licensed under a Creative Commons Attribution 4.0 International Lic
 
 See https://github.com/godotengine/godot
 
-# `assets/logos/lampe_games_white.svg`
+# `assets/logos/lampe_games_white.svg` — REMOVED in the SadSha clean
 
-Lampe Games Logo Copyright (c) 2022
-
-This logo is fully owned (all rights reserved) by Lampe Games and should not be used in any projects derived from original https://github.com/lampe-games/godot-open-rts project.
+Lampe Games Logo Copyright (c) 2022. This logo is fully owned (all rights reserved) by Lampe Games and must not be used in derived projects, so it was removed from this fork: the splash screen now shows the project icon instead. Original: https://github.com/lampe-games/godot-open-rts
